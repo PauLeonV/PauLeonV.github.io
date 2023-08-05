@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "Zeus",
+        "vida": 200,
+        "ataque": 50,
+        "poder": "Poder del trueno",
+        "img": "./images/zeus.jpg"
+      },
+      {
+        "nombre": "Poseidón",
+        "vida": 175,
+        "ataque": 40,
+        "poder": "Poder del agua",
+        "img": "./images/poseidon.jpg"
+      },
+      {
+        "nombre": "Ares",
+        "vida": 150,
+        "ataque": 30,
+        "poder": "Poder del guerrero",
+        "img": "./images/ares.jpg"
+      },
+      {
+        "nombre": "Apolo",
+        "vida": 125,
+        "ataque": 20,
+        "poder": "Poder de la belleza",
+        "img": "./images/Apolo.jpg"
+      },
+      {
+        "nombre": "Odín",
+        "vida": 225,
+        "ataque": 60,
+        "poder": "Poder del conocimiento",
+        "img": "./images/odin.jpg"
+      },
+      {
+        "nombre": "Thor",
+        "vida": 210,
+        "ataque": 55,
+        "poder": "Poder del trueno",
+        "img": "./images/thor.jpg"
+      },
+      {
+        "nombre": "Loki",
+        "vida": 190,
+        "ataque": 40,
+        "poder": "Poder del engaño",
+        "img": "./images/loki.jpg"
+      }
+]
